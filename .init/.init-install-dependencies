@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/gourmet-express-312415-312425/food_delivery_frontend"
+}
